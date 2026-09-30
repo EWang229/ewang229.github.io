@@ -1,0 +1,23 @@
+---
+---
+
+@import "minima";
+
+.page-content .wrapper {
+  position: relative;
+}
+
+.side-image {
+  position: absolute;
+  right: -100px;
+  top: 30px;
+  width: 50px;
+  height: 50px;
+}
+
+/* Hide the side image when the screen gets too narrow */
+@media screen and (max-width: 1200px) {
+  .side-image {
+    display: none;
+  }
+}
