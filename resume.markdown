@@ -1,24 +1,9 @@
-\---
-
+---
 layout: page
-
 title: Resume
-
 permalink: /resume/
-
-\---
-
+---
 
 
-<iframe
 
-&#x20; src="/assets/pdf/WangEricResume.pdf"
-
-&#x20; width="100%"
-
-&#x20; height="1000px"
-
-&#x20; style="border: none;">
-
-</iframe>
-
+<div style="width: 100%; max-width: 900px; margin: 0 auto;"> <iframe src="/assets/pdf/WangEricResume.pdf" width="100%" height="1100px" style="border: none;"> </iframe> </div>
